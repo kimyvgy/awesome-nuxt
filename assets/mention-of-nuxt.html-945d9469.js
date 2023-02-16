@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bbe625b4","path":"/resources/mention-of-nuxt.html","title":"Mention of Nuxt","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1676526511000,"contributors":[{"name":"Le Minh Tri","email":"ansidev@users.noreply.github.com","commits":1}]},"filePathRelative":"resources/mention-of-nuxt.md"}');export{e as data};
